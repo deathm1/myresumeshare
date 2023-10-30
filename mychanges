@@ -1,0 +1,146 @@
+"education": [
+    {
+      "institution": "Vellore Institute of Technology",
+      "location": "Vellore, Tamil Nadu, India",
+      "studyType": "Bachelor of Technology",
+      "startDate": "July 2017",
+      "gpa": "8.34",
+      "area": "Electronics and Communications Engineering",
+      "endDate": "July 2021"
+    }
+  ],
+  "work": [
+    {
+      "company": "Genpact",
+      "location": "Gurugram, India",
+      "position": "Consultant (Data Engineer)",
+      "website": "",
+      "endDate": "Present",
+      "highlights": [
+        "Significantly improved operational efficiency by implementing a scalable AWS Lambda-based data orchestration pipeline, following a rigorous ETL (Extract, Transform, Load) methodology. This initiative resulted in a remarkable reduction of over 50% in the processing time, successfully loading data into a high-performance Transactional Database.",
+        "Maintained and Enriched a Hybrid Transactional Analytical Processing (HTAP) System on Azure Synapse Analytics, enabling seamless integration with BI tools to facilitate data-driven decision making.",
+        "Engineered and deployed scalable data pipelines in cloud-native environments such as Azure Synapse Analytics, leveraging ETL and ELT methodologies to transform data from transactional and dimensional databases for display on the client’s website.",
+        "Fostered a collaborative development environment through the use of cloud technologies such as Azure Repos, GIT Hub, Jira, and Azure DevOps.",
+        "Optimized ETL pipeline efficiency through a strategic reduction in database transactions, resulting in an impressive 40% reduction in overall pipeline processing time. This achievement was attained by proposing and implementing efficient alternatives for performing the same task.",
+        "Sustained and enhanced the Snowflake schema-based database on Azure Synapse by automating the loading process for both dimensional and fact tables, ensuring seamless data enrichment and maintenance.",
+        "Collaborated with data scientists to implement machine learning models for predictive analytics.",
+        "Conducted data profiling and analysis to identify data anomalies and discrepancies, implementing data cleansing and transformation procedures.",
+        "Collaborated with cross-functional teams to gather, assess, and document business requirements for data projects.",
+        "Documented data engineering processes, best practices, and standard operating procedures.",
+        "Created and managed data models, schemas, and database structures to support analytics and reporting.",
+        "Utilized cloud-based BI tools such as Azure Data Explorer (ADX) and Kusto Query Language (KQL) to create intuitive, SQL-style dashboards for data visualization.",
+        "Played a pivotal role in data migration and application modernization initiatives, facilitating the seamless transfer of substantial datasets from on-premises environments to cloud systems."
+      ],
+      "startDate": "July 2021"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "level": "",
+      "keywords": [
+        "Python"
+      ]
+    },
+    {
+      "keywords": [
+        "Apache Spark (pySpark)"
+      ],
+      "name": "Big Data Technologies"
+    },
+    {
+      "keywords": [
+        "SQL",
+        "NoSQL (e.g., MongoDB)"
+      ],
+      "name": "Database Systems"
+    },
+    {
+      "keywords": [
+        "ERD",
+        "Star Schema",
+        "Snowflake Schema"
+      ],
+      "name": "Data Modeling"
+    },
+    {
+      "keywords": [
+        "Git"
+      ],
+      "name": "Version Control"
+    },
+    {
+      "keywords": [
+        "Data profiling",
+        "Data Cleansing",
+        "Data Validation"
+      ],
+      "name": "Data Quality"
+    },
+    {
+      "keywords": [
+        "Microsoft Azure",
+        "AWS"
+      ],
+      "name": "Cloud Platforms"
+    },
+    {
+      "keywords": [
+        "Jupyter Notebook"
+      ],
+      "name": "Tools"
+    },
+    {
+      "keywords": [
+        "Jira",
+        "Azure Dev Ops"
+      ],
+      "name": "Collaboration"
+    },
+    {
+      "keywords": [
+        "Data Integration",
+        "Data Quality",
+        "Performance optimization"
+      ],
+      "name": "Data Warehousing"
+    },
+    {
+      "keywords": [
+        "Linux",
+        "Windows"
+      ],
+      "name": "Operating Systems"
+    }
+  ],
+  "projects": [
+    {
+      "keywords": [
+        "React",
+        "NodeJS",
+        "Heroku",
+        "MongoDB"
+      ],
+      "description": "ggStats presents statistics for play duration, most used characters and maps, trophies earned, W/L ratio and much mores. It’s a free service to all players.",
+      "name": "Video Game Statistics System",
+      "url": "https://ggstats.in/"
+    }
+  ],
+  "awards": [
+    {
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "education",
+    "work",
+    "skills",
+    "projects",
+    "awards"
+  ]
+}
